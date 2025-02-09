@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Pietro.
 - ??? 🍒 it will be?
-- 🌱 I’m currently learning Java, C and C++
+- 🌱 I’m currently learning Java and Android
 - 💞️ I’m working Minecraft Servers.
 - 💻 I study Java, while programming some basic plugins for the game Minecraft.
 
